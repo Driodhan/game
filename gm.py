@@ -37,12 +37,12 @@ def main():
     st.write("- Team Collaboration")
 
     # Projects
-    st.header("Projects")
+    st.header("Projects 01 image caption generation")
     st.subheader("image caption generation ")
     st.write("- image caption generation by using CNN and RNN ")
     st.write("- Technologies used: [Deep Learning]")
 
-    st.subheader("portal job")
+    st.subheader(" Projects 01 portal job ")
     st.write("- i am create App that helpFull for job and  intership .")
     st.write("- Technologies used: [flutter and Dart language]")
 
@@ -62,7 +62,14 @@ def main():
 
     # Hobbies
     st.header("Hobbies")
-    st.write("- [List hobbies or interests]")
+    st.write("- [Volunteering.
+Taking part in team sports.
+Competing feats of physical endurance.
+Running an online business.
+Performing arts.
+Making music.
+Coding.
+Developing websites.]")
 
     # References
     st.header("References")
