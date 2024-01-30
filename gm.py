@@ -40,7 +40,7 @@ def main():
     st.header("Projects")
     st.subheader("image caption generation ")
     st.write("- image caption generation by using CNN and RNN , Image caption generator is a process of recognizing the 
-    context of an image and annotating it with relevant captions using deep learning and computer vision .")
+    context of an image and annotating it with relevant captions using deep learning and computer vision ")
     st.write("- Technologies used: [Deep Learning]")
 
     st.subheader("portal job")
