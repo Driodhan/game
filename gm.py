@@ -38,26 +38,28 @@ def main():
 
     # Projects
     st.header("Projects")
-    st.subheader("Project Name 1")
-    st.write("- Description of the project and your role.")
-    st.write("- Technologies used: [List technologies]")
+    st.subheader("image caption generation ")
+    st.write("- image caption generation by using CNN and RNN , Image caption generator is a process of recognizing the 
+    context of an image and annotating it with relevant captions using deep learning and computer vision .")
+    st.write("- Technologies used: [Deep Learning]")
 
-    st.subheader("Project Name 2")
-    st.write("- Description of the project and your role.")
-    st.write("- Technologies used: [List technologies]")
+    st.subheader("portal job")
+    st.write("- i am create App that helpFull for job and  intership .")
+    st.write("- Technologies used: [flutter and Dart language]")
 
     # Certifications
     st.header("Certifications")
-    st.write("- Certification Name, Issuing Organization, Year")
+    st.write("- National Vocational and Technical Training Commission (NAVTTC), 20223")
 
     # Awards and Achievements
     st.header("Awards and Achievements")
-    st.write("- [List any awards or achievements]")
+    st.write("- [selected in muet university award 2020]")
 
     # Languages
     st.header("Languages")
     st.write("- English: Fluent")
-    st.write("- [Any other languages]")
+    st.write("- [Urdu]")
+    st.write("- [Sindhi]")
 
     # Hobbies
     st.header("Hobbies")
