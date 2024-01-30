@@ -13,8 +13,7 @@ def main():
 
     # Summary
     st.header("Summary")
-    st.write("I am a passionate and dedicated individual with a background in [your field]. "
-             "I possess strong [skills or qualities] and have experience in [mention specific experience].")
+    st.write(" i am driodhan rathore 20sw45 i am software Engineers wrok as a flutter developer ")
 
     # Education
     st.header("Education")
