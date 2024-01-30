@@ -62,11 +62,11 @@ def main():
 
     # Hobbies
     st.header("Hobbies")
-    st.write("- web development ")
+    st.write("- web development , Taking part in team sports, Coding, Running an online business")
 
     # References
     st.header("References")
-    st.write("Available upon request.")
+    st.write("Sir Zohaib Dahri.")
 
 if __name__ == '__main__':
     main()
