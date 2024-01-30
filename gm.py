@@ -5,11 +5,11 @@ def main():
 
     # Personal Information
     st.header("Personal Information")
-    st.write("- **Name:** Your Name")
-    st.write("- **Email:** your.email@example.com")
-    st.write("- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/yourusername)")
-    st.write("- **GitHub:** [GitHub Profile](https://github.com/yourusername)")
-    st.write("- **Website:** [Personal Website](https://www.yourwebsite.com)")
+    st.write("- **Name:** DRIODHAN")
+    st.write("- **RollNo:** 20sw45")
+    st.write("- **Dept:** Software")
+    st.write("- **year:** Final Year")
+   
 
     # Summary
     st.header("Summary")
