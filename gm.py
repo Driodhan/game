@@ -17,7 +17,7 @@ def main():
 
     # Education
     st.header("Education")
-    st.subheader("Bachelor of Science in Computer Science")
+    st.subheader("B.E software Engineering ")
     st.write("University Name, Graduation Year")
 
     # Work Experience
