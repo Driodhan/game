@@ -62,14 +62,14 @@ def main():
 
     # Hobbies
     st.header("Hobbies")
-    st.write("- [Volunteering.
+    st.write("- Volunteering
 Taking part in team sports.
 Competing feats of physical endurance.
 Running an online business.
 Performing arts.
 Making music.
 Coding.
-Developing websites.]")
+Developing websites")
 
     # References
     st.header("References")
