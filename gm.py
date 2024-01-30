@@ -18,21 +18,21 @@ def main():
     # Education
     st.header("Education")
     st.subheader("B.E software Engineering ")
-    st.write("University Name, Graduation Year")
+    st.write("QUEST Nawabshah, 2024 Year")
 
     # Work Experience
     st.header("Work Experience")
-    st.subheader("Software Developer at XYZ Company")
-    st.write("- Worked on [project details]")
-    st.write("- Collaborated with [team members] to achieve [specific goals]")
-    st.write("- Implemented [features or improvements]")
+    st.subheader("Software Developer at Iskiller Company")
+    st.write("- Worked on [image caption Generation]")
+    st.write("- Collaborated with [QSES] to achieve [Mermber goals]")
+   
 
     # Skills
     st.header("Skills")
-    st.write("- Programming Languages: [List languages you are proficient in]")
-    st.write("- Web Technologies: [List web-related technologies]")
+    st.write("- Programming Languages: [Dart Language]")
+    st.write("- Web Technologies: [Web Development]")
     st.write("- Database: [List databases]")
-    st.write("- Version Control: [List version control systems]")
+    st.write("- Version Control: [10.2]")
     st.write("- Problem Solving")
     st.write("- Team Collaboration")
 
